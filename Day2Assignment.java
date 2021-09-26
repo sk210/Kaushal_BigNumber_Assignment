@@ -83,7 +83,7 @@ public class Day2Assignment {
   		   System.out.println(n2);
   	   }
   	   
-  	  //Homework
+  	  
   	   
   	 
 
